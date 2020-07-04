@@ -23,7 +23,7 @@ jobs:
     - name: Setup Node.js environment
       uses: actions/setup-node@v2-beta
       with:
-      # Deprecated. Use node-version instead. Will not be supported after October 1, 2019
+      # Deprecated. Use node-versions instead. Will not be supported after October 1, 2019
        version: 12
        
     - name: GitHub Action for Yarn
