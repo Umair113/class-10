@@ -19,7 +19,7 @@ const useStyles = makeStyles((theme) => ({
     color:"blue"
   },
   values:{
-    color:"red"
+    color:"black"
   }
 }));
 
